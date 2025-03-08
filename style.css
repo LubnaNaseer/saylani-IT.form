@@ -1,0 +1,214 @@
+body{
+    background-color:white;
+}
+
+.contanier{
+
+    width: 1300px;
+    height: 250px;
+    /* border: 3px solid; */
+
+}
+.img1{
+    width: 250px;
+    margin-top: 15px;
+    margin-left: 520px;
+    
+}
+H1{
+    margin-left: 480px;
+    margin-top: -20px ;
+    display: inline block;
+}
+
+.strong{
+    color: rgb(77, 75, 75);
+}
+.one{
+    /* border: 3px solid blue; */
+    height: 20px;
+
+}
+img:hover{
+    cursor: pointer;
+}
+.img2{
+    width: 53px;
+ margin-top: 107px;
+ margin-left: 55px;
+}
+.img3{
+    width: 35px;
+    margin-top: 107px;
+    margin-left: 25px;
+}
+.img4{
+    width: 28px;
+    margin-top: 105px;
+    margin-left: 35px;
+}
+button{
+    width: 140px;
+    height: 30px;
+    border: 2px solid rgb(2, 22, 107);
+    border-radius: 25px 30px 25px 30px;
+    margin-left: 800px;
+    margin-bottom: 100px;
+    cursor:auto;
+    
+}
+button:hover{
+    background-color: aliceblue;
+}
+
+.Reg{
+    width: 70px;
+    margin-left :480px;
+    margin-bottom: 15px;
+    border: solid whitesmoke 2px;
+    color: rgb(155, 241, 68);
+}
+.Dowload{
+    width: 70px;
+    border: solid whitesmoke 2px;
+    color: rgba(9, 6, 241, 0.384);
+    margin-left: 10px;
+    display: inline;
+
+}
+.Results{
+    width: 70px;
+    border: solid whitesmoke 2px;
+    color: rgba(8, 8, 252, 0.404);
+    margin-left:10px ;
+}
+.two{
+    text-align: center;
+    margin: 40px;
+}
+p{
+   font-style: normal;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:rgb(8, 51, 240);
+}
+
+select{
+    border: 1px solid rgb(58, 250, 58) ;
+    padding: 10px;
+    width: 400px;
+    outline-color: blue;
+}
+select:focus{
+    border: 1px solid rgb(90, 90, 247) ; 
+    box-shadow:2px 2px 4px rgb(90, 90, 247)  ;  
+}
+a{
+    text-decoration: none;
+}
+input{
+    border: 1px solid yellowgreen;
+    padding: 10px;
+    width: 400px;
+}
+input:focus{
+    border: 1px solid rgb(90, 90, 247) ;
+    outline-color: blue;
+    
+
+}
+/* .Upload{
+    width: 90px; */
+    /* height: 80px;
+    border: dotted 3px rgb(161, 160, 160); */
+    /* border-radius: 8px 8px 8px 8px;
+    background-color: rgb(253, 251, 251); */
+    /* margin-right: 480px; */
+    /* align-content: center; */
+/* } */
+.iam{
+    /* margin-right:-30px; */
+    width: 90px; 
+    height:80px ;
+    border: 3px dotted;
+}
+.R1{
+    /* align-content: center; */
+    /* border: 2px solid; */
+    width: 10px;
+    /* margin-top: ; */
+    margin-left: 550px;
+}
+.button{
+    border: 1px dotted;
+    width: 100px;
+    height: 110px;
+}
+/* label{
+    width: 300px; */
+
+.hello{ 
+    /* border: 2px solid; */
+     width: 300px;
+    text-align: justify;
+    margin-left: 420px;
+    font-style: normal;
+    /* color: black; */
+    
+}
+.a1{
+    color: #080606;
+    width: 300px;
+    margin-left: 450px;
+    text-align: justify;
+} 
+hr{
+    width: 400px;
+}
+#cheak2{
+    border: 2px solid gainsboro;
+    height:70px ;
+    width: 300px;
+    position: absolute;
+    margin: auto;
+    top: 2390px;
+    bottom: 0px;
+    left: 500px;
+    /* right: 0px; */
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+
+}
+input[type="checkbox"]{
+    /* appearance: none; */
+    height: 30px;
+    width: 30px;
+    background-color: rgb(243, 238, 238);
+    color: rgb(68, 68, 68);
+    /* border-radius: 5px; */
+
+}
+/* input[type="checkbox"]:after{
+    content: icon; */
+/* } */
+label{
+    /* color: ; */
+    font-size: 20px;
+    /* font-family: sans-serif; */
+    font-weight: 30;
+}
+.Bu{
+   border: 2px solid #4d4dfa;
+   width: 300px;
+   height: 40px;
+   position: absolute;
+   right: 550px;
+    background-color: #4949f5;
+}
+h5{
+    color: white;
+    text-align: center;
+    margin-bottom: 55px;
+}
